@@ -165,7 +165,7 @@ body {
     font-size: 0.9em;
 }
 
-.your-chat-datetime .glyphicon {
+.chat-datetime .glyphicon {
     margin-right: 5px;
     color: green;
 }
